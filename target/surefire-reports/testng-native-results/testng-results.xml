@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5229" started-at="2019-10-21T18:24:55Z" finished-at="2019-10-21T18:25:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5229" started-at="2019-10-21T18:24:55Z" finished-at="2019-10-21T18:25:01Z">
+      <class name="OrangeHrmSaucelab.Test1">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:OrangeHrmSaucelab.Test1@69d9c55]" name="openBrowser" is-config="true" duration-ms="2890" started-at="2019-10-21T18:24:55Z" finished-at="2019-10-21T18:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="check()[pri:0, instance:OrangeHrmSaucelab.Test1@69d9c55]" name="check" duration-ms="1697" started-at="2019-10-21T18:24:58Z" finished-at="2019-10-21T18:25:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:OrangeHrmSaucelab.Test1@69d9c55]" name="closeBrowser" is-config="true" duration-ms="622" started-at="2019-10-21T18:25:00Z" finished-at="2019-10-21T18:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- OrangeHrmSaucelab.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
